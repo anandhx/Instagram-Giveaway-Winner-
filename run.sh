@@ -1,4 +1,2 @@
-git clone https://github.com/anandhx/Instagram-Giveaway-Winner-.git
-cd Instagram-Giveaway-Winner-
-ls
-python main.py
+pip install -r requirements.txt
+python account1.py
