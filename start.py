@@ -7,6 +7,6 @@ my_parser.add_argument('-p', '--password', action='store', type=str, required=Tr
 args = my_parser.parse_args()
 username = args.username
 password = args.password
-#print("Hello to the",var2)
+#print("Hello to the")
 print("Username = {}".format(username))
 #print("Password = {}".format(password))
