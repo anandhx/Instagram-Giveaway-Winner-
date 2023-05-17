@@ -30,13 +30,17 @@ cd Instagram-Giveaway-Winner-
 pip install -r requirements.txt
 ```
 ```
-python main.py
+python account1.py
 ```
 or
 ```
 bash run.sh
 ```
 
+
+
+###Replace your Username and Password in account1.py (line 33)
+###Add giveaway post/reel  link in url.py  
 #### To add your Insta Username to Database
 Send username to <a href="https://instagram.com/mind________freezer" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mind________freezer"/></a>
 <p>
