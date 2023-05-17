@@ -4,3 +4,7 @@ pip
 instagrapi
 oauth2client
 pycryptodome
+schedule
+termcolor
+pillow==9.3.0
+tqdm
